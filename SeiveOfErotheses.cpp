@@ -1,3 +1,4 @@
+//Time complexity of seive is O(nlog(logn))
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
